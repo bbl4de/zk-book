@@ -1,1 +1,1 @@
-# zk-book
+# Exercises solutions for Rareskill's ZK-BOOK
